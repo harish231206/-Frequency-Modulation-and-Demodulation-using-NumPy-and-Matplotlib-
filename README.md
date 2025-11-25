@@ -93,7 +93,8 @@ plt.show()
 ```
 __TABULATION__:
 
-![WhatsApp Image 2025-11-26 at 00 28 56_cdd555a5](https://github.com/user-attachments/assets/ea1d6c9e-6c8e-4ebe-be36-3c5bc71b9977)
+![WhatsApp Image 2025-11-26 at 00 30 26_aba7476c](https://github.com/user-attachments/assets/7504e7a6-de00-40f3-8612-792da5d0a4fd)
+
 
 __Output:__
 
@@ -101,4 +102,4 @@ __Output:__
 
 __Result:__
 
-![WhatsApp Image 2025-11-26 at 00 27 41_52a14f34](https://github.com/user-attachments/assets/591ace76-02e2-4bc3-85d2-9220ab3af572)
+![WhatsApp Image 2025-11-26 at 00 30 32_f3ffbaab](https://github.com/user-attachments/assets/09b66682-60cc-4645-b3e9-244f2e50716b)
